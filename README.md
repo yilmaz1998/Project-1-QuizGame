@@ -3,11 +3,15 @@
 
 <a href="https://yilmaz1998.github.io/Project-1-QuizGame/">Click to play</a>
 <h2>This is the first page</h2>
-<img width="1792" alt="Screenshot 2024-01-22 at 10 41 56 PM" src="https://github.com/yilmaz1998/Project-1/assets/152319088/40d00e0c-c427-4c6e-a319-e139cc8aabb1">
+<img width="1782" alt="Screenshot 2024-06-17 at 1 25 32 PM" src="https://github.com/yilmaz1998/Project-1-QuizGame/assets/152319088/bcec7b93-b322-4622-ab7e-e59bca2b4fff">
+
 
 
 <h2>This is how main page looks like</h2>
-<img width="1792" alt="Screenshot 2024-01-22 at 10 42 05 PM" src="https://github.com/yilmaz1998/Project-1/assets/152319088/304f0844-455a-474d-ae68-952fa0b46ff7">
+<img width="1785" alt="Screenshot 2024-06-17 at 1 25 43 PM" src="https://github.com/yilmaz1998/Project-1-QuizGame/assets/152319088/d63f522d-4af8-4a0c-999c-f89e0df827de">
+
+<h2>This is how main page looks on mobile</h2>
+<img width=300 src="https://github.com/yilmaz1998/Project-1-QuizGame/assets/152319088/8a41fd3e-a181-40a7-93ef-1172b372efdd">
 
 
 <h1>About the game</h1>
